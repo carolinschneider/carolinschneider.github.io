@@ -99,7 +99,8 @@ enable_contact: false
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+  - { url: '/', text: 'Startseite' }
+  - { url: '/about', text: 'Über mich' }
+  - { url: '/about', text: 'Kontakt' }
 
 theme: jekyll-theme-minimal
