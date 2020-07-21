@@ -1,3 +1,9 @@
+layout: inner
+title: Über mich
+permalink: /about/
+
+---
+
 # HALLO
 > Hallo. Ich bin Carolin Schneider, Psychologin (M.Sc.). Seit September 2020 bin befinde ich mich zudem in der postgradualen Ausbildung zur Psychologische Psychotherapeutin in der Fachkunde Tiefenpsychologisch fundierte Psychotherapie (TP).
 
