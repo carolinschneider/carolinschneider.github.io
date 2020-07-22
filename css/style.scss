@@ -19,7 +19,7 @@
 $primary: #0a0a0a;
 $secondary: #FF7B7B;
 
-%MPlus { font-family: 'M PLUS 1p', sans-serif; }
+%TenorSans { font-family: 'Tenor Sans', sans-serif; }
 %merriweather { font-family: 'Merriweather', serif; }
 
 /*--------------------------------------------------------------
@@ -34,7 +34,7 @@ $secondary: #FF7B7B;
 
 body {
   background-color: #e9edf0;
-  @extend %MPlus;
+  @extend %TenorSans;
   -webkit-font-smoothing: antialiased;
 }
 
