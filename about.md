@@ -1,7 +1,6 @@
 layout: inner
 title: Über mich
 permalink: /about/
-
 ---
 
 # HALLO
