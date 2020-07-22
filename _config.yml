@@ -102,5 +102,6 @@ nav_item:
   - { url: '/', text: 'Startseite' }
   - { url: '/about', text: 'Über mich' }
   - { url: '/about', text: 'Kontakt' }
+  - { url: '/about', text: 'Beratung' }
 
 theme: jekyll-theme-minimal
