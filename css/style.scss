@@ -20,7 +20,7 @@ $primary: #0a0a0a;
 $secondary: #FF7B7B;
 
 %TenorSans { font-family: 'Tenor Sans', sans-serif; }
-%JosefinSlab { font-family: 'Josefin Slab', serif; }
+%HomemadeApple { font-family: 'Homemade Apple', cursive; }
 
 /*--------------------------------------------------------------
 	1.0 Defaults
@@ -39,7 +39,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  @extend %JosefinSlab;
+  @extend %HomemadeApple;
   font-weight: 700;
 }
 
