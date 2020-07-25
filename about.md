@@ -6,8 +6,8 @@ permalink: /about/
 
 <img src="https://raw.githubusercontent.com/carolinschneider/carolinschneider.github.io/master/img/lini%20(2).png" alt="" style="float:right;width:50%;">
 
-# Ich bin Carolin Schneider
-Psychologin (M.Sc.) und seit September 2020 in der postgradualen Ausbildung zur Psychologische Psychotherapeutin in der Fachkunde Tiefenpsychologisch fundierte Psychotherapie (TP).
+# Über mich
+Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in der postgradualen Ausbildung zur Psychologische Psychotherapeutin in der Fachkunde Tiefenpsychologisch fundierte Psychotherapie (TP).
 
 ## Mein Ansatz
 Ich verfolge einen ressourcenorientierten, humanistischen Ansatz. 
