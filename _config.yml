@@ -101,7 +101,8 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Startseite' }
   - { url: '/about', text: 'Über mich' }
-  - { url: '/kontakt', text: 'Kontakt' }
   - { url: '/beratung', text: 'Beratung' }
+  - { url: '/kontakt', text: 'Kontakt' }
+
 
 theme: jekyll-theme-minimal
