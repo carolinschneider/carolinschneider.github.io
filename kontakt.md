@@ -12,6 +12,6 @@ Kontaktieren Sie mich gerne: <br>
 {% include contact-modal.html %} <br>
 
 **Sie erreichen mich auch direkt per Mail, Telefon oder Social Media:** <br>
-Mail: carolinschneider@posteo.de
-Telefon: 
-Social Media: 
+Mail: kontakt-cs@posteo.de <br>
+Telefon: <br>
+Social Media: <br>
