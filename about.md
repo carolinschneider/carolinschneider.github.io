@@ -13,27 +13,27 @@ Psychologin (M.Sc.) und seit September 2020 in der postgradualen Ausbildung zur 
 Ich verfolge einen ressourcenorientierten, humanistischen Ansatz. 
 
 ## Schwerpunkte
-- Prävention psychischer Krisen
-- Depressive Verstimmungen
-- Stressreaktionen (z.B. Burnout)
-- Unzufriedenheit
+- Prävention psychischer Krisen <br />
+- Depressive Verstimmungen <br />
+- Stressreaktionen (z.B. Burnout) <br />
+- Unzufriedenheit <br />
 - ...
 
 ## Berufliche Qualifikaton
 
 **Akademische Meilensteine**
-2020 - M.Sc. Psychologie, Humboldt Universität zu Berlin
-2018 - B.Sc. Psychologie, Universität Ulm
-2016 - M.Sc. Marketing, Friedrich-Alexander Universität Erlangen-Nürnberg
-2014 - Auslandssemester University of Alberta, Edmonton, Kanada
-2013 - B.Sc. Kommunikationswissenschaft, Universität Hohenheim
-2012 - Auslandssemester Universidad Politécnica de Valencia
+2020 - M.Sc. Psychologie, Humboldt Universität zu Berlin <br />
+2018 - B.Sc. Psychologie, Universität Ulm <br />
+2016 - M.Sc. Marketing, Friedrich-Alexander Universität Erlangen-Nürnberg <br />
+2014 - Auslandssemester University of Alberta, Edmonton, Kanada <br />
+2013 - B.Sc. Kommunikationswissenschaft, Universität Hohenheim <br />
+2012 - Auslandssemester Universidad Politécnica de Valencia <br />
 
 **Berufliche Erfahrung**
-seit 2020 - Psychologin, Vivantes Klinikum am Urban
-seit 2020 - Aktives Mitglied bei Kopfsachen e.V.
-seit 2019 - Beraterin in der lösungesorientierten Kurzzeitberatung bei JugendNotmail des jugendundjetzt e.V. 
-seit 2019 - Pflegeassistenz im St. Joseph Krankenhaus (Psychiatrie), Berlin-Weißensee
+seit 2020 - Psychologin, Vivantes Klinikum am Urban <br />
+seit 2020 - Aktives Mitglied bei Kopfsachen e.V. <br />
+seit 2019 - Beraterin in der lösungesorientierten Kurzzeitberatung bei JugendNotmail des jugendundjetzt e.V. <br />
+seit 2019 - Pflegeassistenz im St. Joseph Krankenhaus (Psychiatrie), Berlin-Weißensee <br />
 seit 2016 - Forschungstätigkeit an der Universität Ulm, Sektion Versorgungsforschung
 
 **Publikationen**
