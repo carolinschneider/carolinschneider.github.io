@@ -3,9 +3,9 @@ layout: inner
 title: Kontakt
 permalink: /kontakt/
 ---
-## Kontakt <br>
+## Kontakt 
 
-**Haben Sie Interesse an einer Beratung oder Fragen zu meiner Person?** <br>
+<br>**Haben Sie Interesse an einer Beratung oder Fragen zu meiner Person?** <br>
 Kontaktieren Sie mich gerne: 
 {% include contact.html %} <br>
 {% include contact-modal.html %}
