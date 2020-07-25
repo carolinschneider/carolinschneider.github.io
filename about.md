@@ -32,7 +32,7 @@ Ich verfolge einen ressourcenorientierten, humanistischen Ansatz.
 **Berufliche Erfahrung** <br />
 - seit 2020 - Psychologin, Vivantes Klinikum am Urban <br />
 - seit 2020 - Aktives Mitglied bei Kopfsachen e.V. <br />
-- seit 2019 - Beraterin in der lösungesorientierten Kurzzeitberatung bei JugendNotmail des jugendundjetzt e.V. <br />
+- seit 2019 - Beraterin in der lösungesorientierten Kurzzeitberatung bei JugendNotmail, jugendundjetzt e.V. <br />
 - seit 2019 - Pflegeassistenz im St. Joseph Krankenhaus (Psychiatrie), Berlin-Weißensee <br />
 - seit 2016 - Forschungstätigkeit an der Universität Ulm, Sektion Versorgungsforschung
 
