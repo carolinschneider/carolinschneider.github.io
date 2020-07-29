@@ -5,10 +5,10 @@ permalink: /angebot/
 ---
 
 ## Mein Angebot
-Ich biete meine Angebote Online an. 
+Hier steht etwas über mein Angebot.
 
 **Mein Ansatz**
-Hier steht etwas zu meinem Ansatz
+Hier steht etwas über mein Ansatz. Ich biete meine Beratungen Online an. 
 
 **Präventionsarbeit**
 So wie wir Sport machen, um uns körperlich gesund zu halten, können wir präventiv psychiatrischen Erkrankungen vorbeugen. In der Präventionsarbeit geht es vor allem darum, die mentale Gesundheit zu stärken! 
