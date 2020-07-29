@@ -102,7 +102,7 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Startseite' }
   - { url: '/about', text: 'Über mich' }
-  - { url: '/beratung', text: 'Beratung' }
+  - { url: '/angebot', text: 'Mein Angebot' }
   - { url: '/kontakt', text: 'Kontakt' }
 
 
