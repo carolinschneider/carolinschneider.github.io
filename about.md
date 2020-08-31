@@ -10,8 +10,8 @@ permalink: /about/
 Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in der postgradualen Ausbildung zur Psychologische Psychotherapeutin in der Fachkunde Tiefenpsychologisch fundierte Psychotherapie (TP). <br> <br>
 
 
-
-<br> ## Berufliche Qualifikaton
+<br>
+## Berufliche Qualifikaton
 
 **Akademische Meilensteine** <br />
 2020 - M.Sc. Psychologie, Humboldt Universität zu Berlin <br />
@@ -21,12 +21,14 @@ Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in
 2013 - B.Sc. Kommunikationswissenschaft, Universität Hohenheim <br />
 2012 - Auslandssemester Universidad Politécnica de Valencia <br />
 
+
 **Berufliche Erfahrung** <br />
 seit 2020 - Psychologin, Vivantes Klinikum am Urban in Berlin <br />
 seit 2020 - Aktives Mitglied bei <a href="https://www.kopfsachen.org/">Kopfsachen e.V. </a>  <br />
 seit 2019 - Beraterin bei JugendNotmail, jugendundjetzt e.V. <br />
 seit 2019 - Pflegeassistenz im St. Joseph Krankenhaus (Psychiatrie), Berlin-Weißensee <br />
-seit 2016 - Forschungstätigkeit an der Universität Ulm, Sektion Versorgungsforschung
+seit 2016 - Forschungstätigkeit an der Universität Ulm, Sektion Versorgungsforschung <br />
+
 
 **Publikationen** <br />
 Schneider, C., Becker, T., Szecsenyi, J., Andres, E. & Kösters, M. (2020). Depression. Qualitätsindikatoren für die Versorgung von Patientinnen und Patienten mit Depression. In J. Szecsenyi, Broge, Björn & J. Stock (Hrsg.), QiSA - das Qualitätsindikatorensystem für die ambulante Versorgung (Version 2.0, C6). Berlin: KomPart-Verl.-Ges. Verfügbar unter https://www.aok-gesundheitspartner.de/imperia/md/gpp/bund/qisa/downloads/qisa_teil_c6_v2_0.pdf
