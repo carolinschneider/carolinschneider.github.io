@@ -19,6 +19,22 @@ seit 2019 - Pflegeassistenz im St. Joseph Krankenhaus (Psychiatrie), Berlin-Wei�
 seit 2016 - Forschungstätigkeit an der Universität Ulm, Sektion Versorgungsforschung </p>
 </div> 
 
+<br />
+
+<button type="button" class="collapsible">Akademische Qualifikation </button>
+<div class="content">
+  <p>2020 - M.Sc. Psychologie, Humboldt Universität zu Berlin <br />
+2018 - B.Sc. Psychologie, Universität Ulm <br />
+2016 - M.Sc. Marketing, Friedrich-Alexander Universität Erlangen-Nürnberg <br />
+2014 - Auslandsaufenthalt University of Alberta, Edmonton, Kanada <br />
+2013 - B.Sc. Kommunikationswissenschaft, Universität Hohenheim <br />
+2012 - Auslandsaufenthalt Universidad Politécnica de Valencia <br /> </p>
+
+<br />
+<button type="button" class="collapsible">Publikationen </button>
+<div class="content">
+  <p> Schneider, C., Becker, T., Szecsenyi, J., Andres, E. & Kösters, M. (2020). Depression. Qualitätsindikatoren für die Versorgung von Patientinnen und Patienten mit Depression. In J. Szecsenyi, Broge, Björn & J. Stock (Hrsg.), QiSA - das Qualitätsindikatorensystem für die ambulante Versorgung (Version 2.0, C6). Berlin: KomPart-Verl.-Ges. <a href="https://https://www.aok-gesundheitspartner.de/imperia/md/gpp/bund/qisa/downloads/qisa_teil_c6_v2_0.pdf"> Zur Online Ausgabe </a>
+
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
@@ -35,15 +51,3 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
-
-**Akademische Qualifikation** <br />
-2020 - M.Sc. Psychologie, Humboldt Universität zu Berlin <br />
-2018 - B.Sc. Psychologie, Universität Ulm <br />
-2016 - M.Sc. Marketing, Friedrich-Alexander Universität Erlangen-Nürnberg <br />
-2014 - Auslandsaufenthalt University of Alberta, Edmonton, Kanada <br />
-2013 - B.Sc. Kommunikationswissenschaft, Universität Hohenheim <br />
-2012 - Auslandsaufenthalt Universidad Politécnica de Valencia <br />
-
-**Publikationen** <br />
-Schneider, C., Becker, T., Szecsenyi, J., Andres, E. & Kösters, M. (2020). Depression. Qualitätsindikatoren für die Versorgung von Patientinnen und Patienten mit Depression. In J. Szecsenyi, Broge, Björn & J. Stock (Hrsg.), QiSA - das Qualitätsindikatorensystem für die ambulante Versorgung (Version 2.0, C6). Berlin: KomPart-Verl.-Ges. <a href="https://https://www.aok-gesundheitspartner.de/imperia/md/gpp/bund/qisa/downloads/qisa_teil_c6_v2_0.pdf"> Zur Online Ausgabe </a>
-
