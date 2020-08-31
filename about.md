@@ -9,7 +9,9 @@ permalink: /about/
 # Über mich
 Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in der postgradualen Ausbildung zur Psychologische Psychotherapeutin in der Fachkunde Tiefenpsychologisch fundierte Psychotherapie (TP). <br> <br>
 
-## Berufliche Qualifikaton
+
+
+<br> ## Berufliche Qualifikaton
 
 **Akademische Meilensteine** <br />
 2020 - M.Sc. Psychologie, Humboldt Universität zu Berlin <br />
