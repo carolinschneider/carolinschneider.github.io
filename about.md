@@ -24,15 +24,6 @@ seit 2019 - Pflegeassistenz im St. Joseph Krankenhaus (Psychiatrie), Berlin-Wei�
 seit 2016 - Forschungstätigkeit an der Universität Ulm, Sektion Versorgungsforschung </p>
 </div> 
 
-## Berufliche Qualifikaton
-
-**Berufliche Erfahrung** <br />
-seit 2020 - Psychologin, Vivantes Klinikum am Urban in Berlin <br />
-seit 2020 - Aktives Mitglied bei <a href="https://www.kopfsachen.org/">Kopfsachen e.V. </a>  <br />
-seit 2019 - Beraterin bei JugendNotmail, <a href="https://www.jugendnotmail.de/"> jugendundjetzt e.V. </a> <br />
-seit 2019 - Pflegeassistenz im St. Joseph Krankenhaus (Psychiatrie), Berlin-Weißensee <br />
-seit 2016 - Forschungstätigkeit an der Universität Ulm, Sektion Versorgungsforschung <br />
-
 **Akademische Qualifikation** <br />
 2020 - M.Sc. Psychologie, Humboldt Universität zu Berlin <br />
 2018 - B.Sc. Psychologie, Universität Ulm <br />
