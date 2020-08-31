@@ -7,7 +7,6 @@ permalink: /kontakt/
 <br>
 <img src="https://raw.githubusercontent.com/carolinschneider/carolinschneider.github.io/master/img/Kontakt.png" alt="" style="float:center;width:30%;">
 
-<br>
 **Haben Sie Interesse an einer Beratung oder Fragen zu meiner Person?** <br>
 Kontaktieren Sie mich gerne: 
 {% include contact.html %} <br>
