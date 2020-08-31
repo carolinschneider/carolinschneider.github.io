@@ -16,7 +16,7 @@ Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in
 **Berufliche Erfahrung** <br />
 seit 2020 - Psychologin, Vivantes Klinikum am Urban in Berlin <br />
 seit 2020 - Aktives Mitglied bei <a href="https://www.kopfsachen.org/">Kopfsachen e.V. </a>  <br />
-seit 2019 - Beraterin bei JugendNotmail, jugendundjetzt e.V. <br />
+seit 2019 - Beraterin bei JugendNotmail, <a href="https://www.jugendnotmail.de/"> jugendundjetzt e.V. </a> <br />
 seit 2019 - Pflegeassistenz im St. Joseph Krankenhaus (Psychiatrie), Berlin-Weißensee <br />
 seit 2016 - Forschungstätigkeit an der Universität Ulm, Sektion Versorgungsforschung <br />
 
