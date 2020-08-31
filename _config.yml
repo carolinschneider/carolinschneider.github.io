@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: "Schön, dass Sie hier sind!"
 email: 'carolinschneider@posteo.de'
-description: "Carolin Schneider, Psychologin <br> 
-Prävention | Beratung | Einsamkeit <br> <img src="https://raw.githubusercontent.com/carolinschneider/carolinschneider.github.io/master/img/startseite.png" alt="" style="float:right;width:50%;">""
+description: 'Carolin Schneider, Psychologin <br> 
+Prävention | Beratung | Einsamkeit <br> <img src="https://raw.githubusercontent.com/carolinschneider/carolinschneider.github.io/master/img/startseite.png" alt="" style="float:right;width:50%;">'
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://carolinschneider.github.io" # the base hostname & protocol for your site, e.g. https://example.com
