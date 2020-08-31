@@ -8,7 +8,7 @@ permalink: /angebot/
 Hier steht etwas über mein Angebot. 
 
 **Mein Ansatz** <br>
-Hier steht etwas über mein Ansatz. Ich biete meine Beratungen Online an. 
+Hier steht etwas über mein Ansatz. Ich biete meine Beratungen Online an. <br>
 <img src="https://raw.githubusercontent.com/carolinschneider/carolinschneider.github.io/master/img/Angebot.png" alt="" style="float:right;width:40%;">
 
 **Präventionsarbeit** <br>
