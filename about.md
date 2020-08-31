@@ -33,7 +33,7 @@ seit 2016 - Forschungstätigkeit an der Universität Ulm, Sektion Versorgungsfor
 <br />
 <button type="button" class="collapsible">Publikationen </button>
 <div class="content">
-  <p> Schneider, C., Becker, T., Szecsenyi, J., Andres, E. & Kösters, M. (2020). Depression. Qualitätsindikatoren für die Versorgung von Patientinnen und Patienten mit Depression. In J. Szecsenyi, Broge, Björn & J. Stock (Hrsg.), QiSA - das Qualitätsindikatorensystem für die ambulante Versorgung (Version 2.0, C6). Berlin: KomPart-Verl.-Ges. <a href="https://https://www.aok-gesundheitspartner.de/imperia/md/gpp/bund/qisa/downloads/qisa_teil_c6_v2_0.pdf"> Zur Online Ausgabe </a>
+  <p> Schneider, C., Becker, T., Szecsenyi, J., Andres, E. & Kösters, M. (2020). Depression. Qualitätsindikatoren für die Versorgung von Patientinnen und Patienten mit Depression. In J. Szecsenyi, Broge, Björn & J. Stock (Hrsg.), QiSA - das Qualitätsindikatorensystem für die ambulante Versorgung (Version 2.0, C6). Berlin: KomPart-Verl.-Ges. <a href="https://https://www.aok-gesundheitspartner.de/imperia/md/gpp/bund/qisa/downloads/qisa_teil_c6_v2_0.pdf"> Zur Online Ausgabe </a> <p>
 
 <script>
 var coll = document.getElementsByClassName("collapsible");
