@@ -36,10 +36,6 @@ for (i = 0; i < coll.length; i++) {
 }
 </script>
 
-</body>
-</html>
-
-
 **Akademische Qualifikation** <br />
 2020 - M.Sc. Psychologie, Humboldt Universität zu Berlin <br />
 2018 - B.Sc. Psychologie, Universität Ulm <br />
