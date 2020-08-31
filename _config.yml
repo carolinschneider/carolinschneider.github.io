@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Schön, dass Sie hier sind!"
+title: 'Schön, dass Sie hier sind!'
 email: 'carolinschneider@posteo.de'
-description: "Carolin Schneider, Psychologin <br>
-Prävention | Einsamkeit | Beratung" <br>
+description: 'Carolin Schneider, Psychologin <br>
+Prävention | Einsamkeit | Beratung' <br>
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://carolinschneider.github.io" # the base hostname & protocol for your site, e.g. https://example.com
