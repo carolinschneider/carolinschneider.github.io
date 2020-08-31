@@ -10,14 +10,18 @@ permalink: /about/
 Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in der postgradualen Ausbildung zur Psychologische Psychotherapeutin in der Fachkunde Tiefenpsychologisch fundierte Psychotherapie (TP). <br> <br>
 
 
-<br>
+<button type="button" class="collapsible">Open Section 1</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
  <button type="button" class="collapsible">Berufliche Qualifikation </button>
 <div class="content">
   <p>seit 2020 - Psychologin, Vivantes Klinikum am Urban in Berlin <br />
 seit 2020 - Aktives Mitglied bei <a href="https://www.kopfsachen.org/">Kopfsachen e.V. </a>  <br />
 seit 2019 - Beraterin bei JugendNotmail, <a href="https://www.jugendnotmail.de/"> jugendundjetzt e.V. </a> <br />
 seit 2019 - Pflegeassistenz im St. Joseph Krankenhaus (Psychiatrie), Berlin-Weißensee <br />
-seit 2016 - Forschungstätigkeit an der Universität Ulm, Sektion Versorgungsforschung <br /> </p>
+seit 2016 - Forschungstätigkeit an der Universität Ulm, Sektion Versorgungsforschung </p>
 </div> 
 
 ## Berufliche Qualifikaton
