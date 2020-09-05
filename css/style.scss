@@ -10,6 +10,7 @@
   2.1 Contact
 3.0 Posts
 4.0 Footer
+5.0 Collapsible
 
 --------------------------------------------------------------*/
 
@@ -437,7 +438,7 @@ pre {
     .highlight .il { color: #0000cf; font-weight: bold } /* Literal.Number.Integer.Long */
 
 
-/*Collapsible für die Über Seite
+/* 5.0 Collapsible für die ABOUT Seite
 
  /* Style the button that is used to open and close the collapsible content */
 .collapsible {
@@ -463,4 +464,6 @@ pre {
   display: none;
   overflow: hidden;
   background-color: #f1f1f1;
+  max-height: 0
+  transition: max-height 0.2s ease-out;
 } 
