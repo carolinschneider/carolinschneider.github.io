@@ -27,8 +27,8 @@ Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in
 <br />
 
 <div class="wrap-collabsible">
-  <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">Akademische Qualifikation</label>
+  <input id="collapsible2" class="toggle" type="checkbox">
+  <label for="collapsible2" class="lbl-toggle">Akademische Qualifikation</label>
   <div class="collapsible-content">
     <div class="content-inner">
      <p>
@@ -45,8 +45,8 @@ Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in
 <br />
 
 <div class="wrap-collabsible">
-  <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">Publikationen</label>
+  <input id="collapsible3" class="toggle" type="checkbox">
+  <label for="collapsible3" class="lbl-toggle">Publikationen</label>
   <div class="collapsible-content">
     <div class="content-inner">
     <p>
