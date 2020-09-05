@@ -9,10 +9,18 @@ permalink: /about/
 # Über mich
 Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in der postgradualen Ausbildung zur Psychologische Psychotherapeutin in der Fachkunde Tiefenpsychologisch fundierte Psychotherapie (TP). <br> <br>
 
-<p>A Collapsible:</p>
-<button class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="wrap-collabsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">More Info</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        QUnit is by calling one of the object that are embedded in JavaScript, and faster JavaScript program could also used with
+        its elegant, well documented, and functional programming using JS, HTML pages Modernizr is a popular browsers without
+        plug-ins. Test-Driven Development.
+      </p>
+    </div>
+  </div>
 </div>
 
 <button type="button" class="collapsible">Berufliche Qualifikation </button>
