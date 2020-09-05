@@ -7,18 +7,19 @@ permalink: /about/
 <img src="https://raw.githubusercontent.com/carolinschneider/carolinschneider.github.io/master/img/lini%20(2).png" alt="" style="float:right;width:35%;">
 
 # Über mich
-Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in der postgradualen Ausbildung zur Psychologische Psychotherapeutin in der Fachkunde Tiefenpsychologisch fundierte Psychotherapie (TP). <br> <br>
+Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in der postgradualen Ausbildung zur Psychologische Psychotherapeutin in der Fachkunde Tiefenpsychologisch fundierte Psychotherapie (TP). <br> <br> <br>
 
 <div class="wrap-collabsible">
   <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">More Info</label>
+  <label for="collapsible" class="lbl-toggle">Berufliche Qualifikation</label>
   <div class="collapsible-content">
     <div class="content-inner">
-      <p>
-        QUnit is by calling one of the object that are embedded in JavaScript, and faster JavaScript program could also used with
-        its elegant, well documented, and functional programming using JS, HTML pages Modernizr is a popular browsers without
-        plug-ins. Test-Driven Development.
-      </p>
+     <p>
+       seit 2020 - Psychologin, Vivantes Klinikum am Urban in Berlin <br />
+       seit 2020 - Aktives Mitglied bei <a href="https://www.kopfsachen.org/">Kopfsachen e.V. </a>  <br />
+       seit 2019 - Beraterin bei JugendNotmail, <a href="https://www.jugendnotmail.de/"> jugendundjetzt e.V. </a> <br />
+       seit 2019 - Pflegeassistenz im St. Joseph Krankenhaus (Psychiatrie), Berlin-Weißensee <br />
+       seit 2016 - Forschungstätigkeit an der Universität Ulm, Sektion Versorgungsforschung </p>
     </div>
   </div>
 </div>
