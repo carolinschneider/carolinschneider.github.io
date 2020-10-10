@@ -24,8 +24,6 @@ Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in
   </div>
 </div>
 
-<br />
-
 <div class="wrap-collabsible">
   <input id="collapsible2" class="toggle" type="checkbox">
   <label for="collapsible2" class="lbl-toggle">Akademische Qualifikation</label>
@@ -42,8 +40,6 @@ Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in
   </div>
 </div>
 
-<br />
-
 <div class="wrap-collabsible">
   <input id="collapsible3" class="toggle" type="checkbox">
   <label for="collapsible3" class="lbl-toggle">Publikationen</label>
@@ -53,6 +49,4 @@ Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in
       Schneider, C., Becker, T., Szecsenyi, J., Andres, E. & Kösters, M. (2020). Depression. Qualitätsindikatoren für die Versorgung von Patientinnen und Patienten mit Depression. In J. Szecsenyi, Broge, Björn & J. Stock (Hrsg.), QiSA - das Qualitätsindikatorensystem für die ambulante Versorgung (Version 2.0, C6). Berlin: KomPart-Verl.-Ges. <a href="https://https://www.aok-gesundheitspartner.de/imperia/md/gpp/bund/qisa/downloads/qisa_teil_c6_v2_0.pdf"> Zur Online Ausgabe </a> </p>
     </div>
   </div>
-</div> 
-
-
+</div>
