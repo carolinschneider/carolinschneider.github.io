@@ -4,7 +4,7 @@ title: Über mich
 permalink: /about/
 ---
 
-<img src="https://raw.githubusercontent.com/carolinschneider/carolinschneider.github.io/master/img/lini%20(2).png" alt="" style="float:right;width:35%;">
+<img src="https://raw.githubusercontent.com/carolinschneider/carolinschneider.github.io/master/img/lini%20(2).png" alt="" style="float:right;width:35%;margin-left:5%">
 
 # Über mich
 Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in der postgradualen Ausbildung zur Psychologische Psychotherapeutin in der Fachkunde Tiefenpsychologisch fundierte Psychotherapie (TP). <br> <br> <br>
