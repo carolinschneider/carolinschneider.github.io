@@ -31,6 +31,7 @@ Ich heiße Carolin Schneider und bin Psychologin (M.Sc.). Neben meiner beratende
        2018 - B.Sc. Psychologie, Universität Ulm <br />
        2016 - M.Sc. Marketing, Friedrich-Alexander Universität Erlangen-Nürnberg <br />
        2013 - B.Sc. Kommunikationswissenschaft, Universität Hohenheim <br />
+       
     </div>
   </div>
 </div>
@@ -41,9 +42,9 @@ Ich heiße Carolin Schneider und bin Psychologin (M.Sc.). Neben meiner beratende
   <div class="collapsible-content">
     <div class="content-inner">
     <p>
-Schneider, C., Breilmann, J., Reuter, B., Becker, T., & Kösters, M. (2021). Systematic evaluation of the ‘efficacy‐effectiveness gap’in the treatment of depression with venlafaxine and duloxetine. Acta Psychiatrica Scandinavica. 
-Schultchen, D.*, Schneider, C.*, Berberich, G., Zaudig, M., Erle, T. M., & Pollatos, O. (2020). On the relationship of interoceptive accuracy and attention: A controlled study with depressed inpatients and a healthy cohort. Frontiers in Psychology, 11, 4029. 
-Schneider, C., Becker, T., Szecsenyi, J., Andres, E. & Kösters, M. (2020). Depression. Qualitätsindikatoren für die Versorgung von Patientinnen und Patienten mit Depression. In J. Szecsenyi, Broge, Björn & J. Stock (Hrsg.), QiSA - das Qualitätsindikatorensystem für die ambulante Versorgung (Version 2.0, C6). Berlin: KomPart-Verl.-Ges. <a href="https://https://www.aok-gesundheitspartner.de/imperia/md/gpp/bund/qisa/downloads/qisa_teil_c6_v2_0.pdf"> Zur Online Ausgabe </a> </p>
+Schneider, C., Breilmann, J., Reuter, B., Becker, T., & Kösters, M. (2021). Systematic evaluation of the ‘efficacy‐effectiveness gap’in the treatment of depression with venlafaxine and duloxetine. Acta Psychiatrica Scandinavica. <br /> </p>
+<p> Schultchen, D.*, Schneider, C.*, Berberich, G., Zaudig, M., Erle, T. M., & Pollatos, O. (2020). On the relationship of interoceptive accuracy and attention: A controlled study with depressed inpatients and a healthy cohort. Frontiers in Psychology, 11, 4029. <br /> </p>
+<p> Schneider, C., Becker, T., Szecsenyi, J., Andres, E. & Kösters, M. (2020). Depression. Qualitätsindikatoren für die Versorgung von Patientinnen und Patienten mit Depression. In J. Szecsenyi, Broge, Björn & J. Stock (Hrsg.), QiSA - das Qualitätsindikatorensystem für die ambulante Versorgung (Version 2.0, C6). Berlin: KomPart-Verl.-Ges. <a href="https://https://www.aok-gesundheitspartner.de/imperia/md/gpp/bund/qisa/downloads/qisa_teil_c6_v2_0.pdf"> Zur Online Ausgabe </a> </p>
       
       	
 
