@@ -20,7 +20,6 @@ Ich heiße Carolin Schneider und bin Psychologin (M.Sc.). Neben meiner beratende
     </div>
   </div>
 </div>
-
 <div class="wrap-collabsible">
   <input id="collapsible2" class="toggle" type="checkbox">
   <label for="collapsible2" class="lbl-toggle">Akademische Qualifikation</label>
@@ -30,7 +29,7 @@ Ich heiße Carolin Schneider und bin Psychologin (M.Sc.). Neben meiner beratende
        2020 - M.Sc. Psychologie, Humboldt Universität zu Berlin <br />
        2018 - B.Sc. Psychologie, Universität Ulm <br />
        2016 - M.Sc. Marketing, Friedrich-Alexander Universität Erlangen-Nürnberg <br />
-       2013 - B.Sc. Kommunikationswissenschaft, Universität Hohenheim <br />
+       2013 - B.Sc. Kommunikationswissenschaft, Universität Hohenheim <br /> </p>
        
     </div>
   </div>
