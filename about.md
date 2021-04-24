@@ -7,7 +7,7 @@ permalink: /about/
 <img src="https://raw.githubusercontent.com/carolinschneider/carolinschneider.github.io/master/img/lini%20(2).png" alt="" style="float:right;width:35%;margin-left:5%">
 
 # Über mich
-Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in der postgradualen Ausbildung zur Psychologische Psychotherapeutin in der Fachkunde Tiefenpsychologisch fundierte Psychotherapie (TP). <br> <br> <br>
+Ich heiße Carolin Schneider und bin Psychologin (M.Sc.). Neben meiner beratenden Tätigkeit arbeite ich als klinische Psychologin und wissenschaftliche Mitarbeiterin und kombiniere auf diese Weise mein Interesse an neuen evidenzbasierten psychotherapeutischen Interventionen sowie meine Leidenschaft für die klinisch-psychologische Arbeit mit Klient:innen. <br> <br> <br>
 
 <div class="wrap-collabsible">
   <input id="collapsible" class="toggle" type="checkbox">
@@ -15,10 +15,8 @@ Ich heiße Carolin Schneider, bin Psychologin (M.Sc.) und seit September 2020 in
   <div class="collapsible-content">
     <div class="content-inner">
      <p>
-       seit 2020 - Psychologin, Vivantes Klinikum am Urban in Berlin <br />
+       seit 2020 - Postgraduale Weiterbildung zur Psychologischen Psychotherapeutin an der Süddeutschen Akademie für Psychotherapie, Fachkunde tiefenpsychologisch fundierte Psychotherapie <br />
        seit 2020 - Aktives Mitglied bei <a href="https://www.kopfsachen.org/">Kopfsachen e.V. </a>  <br />
-       seit 2019 - Beraterin bei JugendNotmail, <a href="https://www.jugendnotmail.de/"> jugendundjetzt e.V. </a> <br />
-       seit 2019 - Pflegeassistenz im St. Joseph Krankenhaus (Psychiatrie), Berlin-Weißensee <br />
        seit 2016 - Forschungstätigkeit an der Universität Ulm, Sektion Versorgungsforschung </p>
     </div>
   </div>
