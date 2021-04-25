@@ -14,10 +14,10 @@ Ich heiße Carolin Schneider und bin Psychologin (M.Sc.). Neben meiner beratende
   <div class="collapsible-content">
     <div class="content-inner">
      <p>
-       seit 2020 - Tätigkeit als klinische Psychologin in verschiedenen psychosomatischen und psychiatrischen Einrichtungen in Berlin
-       seit 2020 - Postgraduale Weiterbildung zur Psychologischen Psychotherapeutin an der Süddeutschen Akademie für Psychotherapie, Fachkunde tiefenpsychologisch fundierte Psychotherapie <br />
-       seit 2020 - Aktives Mitglied bei <a href="https://www.kopfsachen.org/">Kopfsachen e.V. </a>  <br />
-       seit 2016 - Forschungstätigkeit an der Universität Ulm, Sektion Versorgungsforschung </p>
+       <b> seit 2020 </b> - Tätigkeit als klinische Psychologin in verschiedenen psychosomatischen und psychiatrischen Einrichtungen in Berlin <br />
+       <b> seit 2020 </b> - Postgraduale Weiterbildung zur Psychologischen Psychotherapeutin an der Süddeutschen Akademie für Psychotherapie, Fachkunde tiefenpsychologisch fundierte Psychotherapie <br />
+       <b> seit 2020 </b> - Aktives Mitglied bei <a href="https://www.kopfsachen.org/">Kopfsachen e.V. </a>  <br />
+       <b> seit 2016 </b> - Forschungstätigkeit an der Universität Ulm, Sektion Versorgungsforschung </p>
     </div>
   </div>
 </div>
